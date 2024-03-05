@@ -3,7 +3,7 @@
 I am passionate about the intersection of artificial intelligence and aviation. I develop software for autonomous navigation of UAVs using the DroneKit library. I conduct research on utilizing AI in the aviation
 industry and work on project development for autonomous flight systems and drone technologies. My goal is to generateinnovative solutions and contribute to the advancement of AI and aviation.
 
-- 🔭 I’m currently working on UAVs and Dronekit
+- 🔭 I’m currently working on UAVs and Dronekit 
 - 🌱 I’m currently learning React Navite
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
