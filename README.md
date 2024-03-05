@@ -1,4 +1,5 @@
-# Edanur Koroglu
+# Hi there 👋, I'm Edanur
+
 I am passionate about the intersection of artificial intelligence and aviation. I develop software for autonomous navigation of UAVs using the DroneKit library. I conduct research on utilizing AI in the aviation
 industry and work on project development for autonomous flight systems and drone technologies. My goal is to generateinnovative solutions and contribute to the advancement of AI and aviation.
 
@@ -6,7 +7,7 @@ industry and work on project development for autonomous flight systems and drone
 - 🌱 I’m currently learning React Navite
 
 
-  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edanurkoroglu)](https://github.com/anuraghazra/github-readme-stats)
 
