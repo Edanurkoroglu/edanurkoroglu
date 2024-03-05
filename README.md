@@ -1,3 +1,4 @@
-### Hi there 👋
+# Hi there 👋, I'm Edanur
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edanurkoroglu)](https://github.com/anuraghazra/github-readme-stats)
+
+
