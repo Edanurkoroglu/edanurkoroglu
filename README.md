@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Edanur
+## Hi there 👋, I'm Edanur
 
 
 
