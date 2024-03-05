@@ -7,7 +7,6 @@ industry and work on project development for autonomous flight systems and drone
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: edanur.koroglu@hotmail.com
 
-  ![Profile views](https://gpvc.arturio.dev/Edanurkoroglu)
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
