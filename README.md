@@ -3,8 +3,12 @@ I am passionate about the intersection of artificial intelligence and aviation. 
 industry and work on project development for autonomous flight systems and drone technologies. My goal is to generateinnovative solutions and contribute to the advancement of AI and aviation.
 
 - 🔭 I’m currently working on UAVs and Dronekit
-- 🌱 I’m currently learning React Navite 
+- 🌱 I’m currently learning React Navite
 
+
+  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edanurkoroglu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
