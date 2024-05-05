@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Edanur
 
- I am passonate about the ntersecton of artifcial intellgence and various advanced technologies includng mobile, web and aviaton technologies. I develop innovative projects in different technology fields and constantly adapt to developments 
- that will differentate myself in various fields. My aim is to make significant contributions to the development of technology by producing innovatve solutions with my work.
+ I am passionate about the intersection of artificial intelligence and various advanced technologies including mobile, web and aviation technologies. I develop innovative projects in different technology fields and constantly adapt to 
+ developments that will differentiate myself in various fields. My aim is to make significant contributions to the development of technology by producing innovatve solutions with my work.
 
 - 🔭 I’m currently working on Mobile Development and Dronekit 
 - 🌱 I’m currently learning React Native
