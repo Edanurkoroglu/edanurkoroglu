@@ -4,7 +4,7 @@
  developments that will differentiate myself in various fields. My aim is to make significant contributions to the development of technology by producing innovatve solutions with my work.
 
 - 🔭 Currently engaged in image processing using YOLO algorithms.
-- 💻 Working with Jetson Nano in Linux environment.Utilizing the DroneKit library and Python for development.
+- 💻 Working with Jetson Nano in Linux environment. Utilizing the DroneKit library and Python for development.
 - 🌱 Concurrently developing expertise in Mobile Development and React Native.
 - 📫 For any inquiries, please reach out to me at edanur.koroglu@hotmail.com.
 
