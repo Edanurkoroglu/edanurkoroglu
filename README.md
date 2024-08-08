@@ -5,7 +5,7 @@
 
 - 🔭 Currently engaged in image processing using YOLO algorithms.
 - 💻 Working with Jetson Nano in Linux environment. Utilizing the DroneKit library and Python for development.
-- 🌱 Concurrently developing expertise in Mobile Development and React Native.
+- 🌱 I concurrently developing expertise in .NET MAUI Development.
 - 📫 For any inquiries, please reach out to me at edanur.koroglu@hotmail.com.
 
 
